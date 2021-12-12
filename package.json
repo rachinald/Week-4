@@ -11,5 +11,9 @@
   "dependencies": {
     "inquirer": "^8.2.0",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0"
   }
+  
 }
